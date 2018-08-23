@@ -3,7 +3,7 @@ GEM
   specs:
     dotenv (2.0.0)
     motion-env (0.0.4)
-    rake (10.4.2)
+    rake (12.3.1)
 
 PLATFORMS
   ruby
@@ -12,3 +12,6 @@ DEPENDENCIES
   dotenv
   motion-env
   rake
+
+BUNDLED WITH
+   1.16.2
